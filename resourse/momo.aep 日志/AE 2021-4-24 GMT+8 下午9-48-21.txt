@@ -1,0 +1,1 @@
+  “2021/4/24”“GMT+8 下午9:48:21”: 开始合成“DONKEY_FINAL”。  输出到: /Users/Mr.yang/Desktop/DONKEY_FINAL/DONKEY_FINAL_[#####].png    “2021/4/24”“GMT+8 下午9:48:30”: 完成的合成“DONKEY_FINAL”。  已用总时间: 9 秒日志在“GMT+8 下午9:48:30”的“2021/4/24”上关闭
